@@ -1,3 +1,3 @@
-**"Learn Python on TikTok" Table of Contents by zero2sudo**
-
-https://docs.google.com/document/d/1QeZE92qQMW8QP6EH08DnEP5rcHwBowXwhqtALgDKPBw/edit?usp=sharing
+<h1 align="center">Hi 👋, I'm zero2sudo</h1>
+<h3 align="center">My "Learn Python on TikTok" notes are below</h3>
+<h4 align="center">https://docs.google.com/document/d/1QeZE92qQMW8QP6EH08DnEP5rcHwBowXwhqtALgDKPBw/edit?usp=sharing</h4

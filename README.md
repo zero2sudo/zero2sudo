@@ -6,8 +6,6 @@ There's a lot of stuff online about these topics, but in my experience, the hard
 
 Now that I have a few years of experience under my belt, I want to share the resources that I've found most helpful on my journey. They might not map perfectly to your situation, but hopefully they can help!
 
-*Shoutout to the [stackedit](https://stackedit.io/app) markdown editor.*
-
 # Coding Resources
 
 ## Learn Python
@@ -32,5 +30,9 @@ Building an Airbnb business has also been an amazing way for me to practice syst
 I made this [spreadsheet](https://docs.google.com/spreadsheets/d/1-vzEiDGUP6ygfqx3g54QC5_wEeCPTSNh68822gCn6d0/edit?usp=sharing) with [The CPA Dude](https://tiktok.com/@thecpadude) to show you how I think about Airbnb acquisitions. Save a copy to your Google Drive if you'd like to play around with it. Give him a follow if you find it helpful - he built most of the spreadsheet.
 
 
+
+
+------
+Shoutout to the [stackedit](https://stackedit.io/app) markdown editor for making this easy af to type up.
 
 

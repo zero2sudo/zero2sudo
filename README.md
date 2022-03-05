@@ -19,7 +19,7 @@ I'm a professional Frontend Software Engineer in Silicon Valley. and [Frontend M
 
 If you're a complete beginner, start with their [beginner learning path](https://frontendmasters.com/learn/). The [Complete Intro to Web Development, v2](https://frontendmasters.com/courses/web-development-v2/) is 100% free, and a great class to dip your toes into web development.
 
-# Real Estate Investing
+# Real Estate Resources
 
 ## Airbnb Investing
 Owning Airbnbs is my favorite way to invest in Real Estate. Airbnb has allowed me to capture amazing cash on cash return in markets with insane appreciation, which is _really hard to do_ in 2022. 
